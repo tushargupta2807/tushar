@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep - Online Test Preparation Platform",
+  "description": "Comprehensive online exam preparation platform featuring 6 subject tests, real-time timed exam interface, instant grading, detailed explanations, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
